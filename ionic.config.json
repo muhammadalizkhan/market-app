@@ -1,0 +1,8 @@
+{
+  "name": "Market App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7a08c97d"
+}
